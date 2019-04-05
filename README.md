@@ -8,3 +8,5 @@ In this project I wrote python script to take screenshots of the game and save c
 -cv2
 -keyboard
 -numpy
+-time
+-pyscreenshot
